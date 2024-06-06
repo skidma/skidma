@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  ![banner_thing](https://komarev.com/ghpvc/?username=skidma&color=lightblue)
+  ![banner_thing](https://komarev.com/ghpvc/?username=skidma&color=brightblue)
   
 </p>
 
