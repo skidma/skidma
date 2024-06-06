@@ -1,16 +1,18 @@
-## Hi there 👋
+<h2 align="center">PRIDE</h2>
 
-<!--
-**skidma/skidma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
 
-Here are some ideas to get you started:
+  ![banner_thing](https://komarev.com/ghpvc/?username=skidma&color=lightblue)
+  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :trophy: My Github Stats:
+
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=skidma&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=skidma&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=skidma&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skidma&hide=php&theme=tokyonight" />
+</a>
+</div>
