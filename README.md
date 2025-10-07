@@ -1,4 +1,4 @@
-<h2 align="center">PRIDE</h2>
+<h2 align="center">Pasters Lounge</h2>
 
 <p align="center">
 
